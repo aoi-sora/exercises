@@ -1,0 +1,110 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=D:\xampp\htdocs\exercises
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+[Project tree]
+exercises
+	+exercises
+		ex1.php
+		ex2.php
+		ex3.php
+		MyClass1.php
+		exercises.ppr
+		ex4.php
+		ex5.php
+		ex6.php
+		ex7.php
+		ex8.php
+		ex9.php
+		ex10.php
+		ex11.php
+		ex12.php
+		ex13.php
+		ex14.php
+		ex15.php
+		ex16.php
+		ex17.php
+[Open project files]
+0=ex1.php
+1=ex2.php
+2=ex3.php
+3=ex4.php
+4=MyClass1.php
+5=ex6.php
+6=ex7.php
+7=ex8.php
+8=ex9.php
+9=ex11.php
+10=ex10.php
+11=ex15.php
+12=ex14.php
+13=ex13.php
+14=ex12.php
+15=ex16.php
+16=ex17.php
+17=ex5.php
+[Selected Project Files]
+Main=
+Selected=ex5.php
+[ex1.php]
+TopLine=1
+Caret=4,7
+[ex2.php]
+TopLine=3
+Caret=24,35
+[ex3.php]
+TopLine=17
+Caret=19,67
+[ex4.php]
+TopLine=1
+Caret=33,9
+[MyClass1.php]
+TopLine=1
+Caret=79,9
+[ex6.php]
+TopLine=1
+Caret=36,36
+[ex7.php]
+TopLine=1
+Caret=43,3
+[ex8.php]
+TopLine=1
+Caret=27,7
+[ex9.php]
+TopLine=1
+Caret=43,15
+[ex11.php]
+TopLine=1
+Caret=25,21
+[ex10.php]
+TopLine=1
+Caret=49,5
+[ex15.php]
+TopLine=1
+Caret=48,11
+[ex14.php]
+TopLine=1
+Caret=67,12
+[ex13.php]
+TopLine=1
+Caret=1,1
+[ex12.php]
+TopLine=1
+Caret=1,1
+[ex16.php]
+TopLine=1
+Caret=11,14
+[ex17.php]
+TopLine=1
+Caret=33,29
+[ex5.php]
+TopLine=1
+Caret=1,1
